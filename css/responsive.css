@@ -1,0 +1,91 @@
+@media(min-width:768px) and (max-width:991px){
+    header #header_top .navigation nav .navbar-nav .nav-item .nav-link{
+        padding: 0 10px;
+        font-size: 14px;
+        color: #45a7fa;
+    }
+    header #header_top .navigation{
+        padding-top: 20px;
+    }
+    header #header_top .navigation nav img{
+        width: 100px;
+    }
+/* header ends */
+    #second_nav a{
+        font-size: 17px;
+        line-height: 42px;
+    }
+    #latest_part{
+        padding-bottom: 50px;
+    }
+    #latest_part figure img{
+        width: 100%;
+    }
+    #new_collection figure img{
+        width: 100%;
+    }
+    #new_collection .video h2{
+        padding-top: 30px;
+    }
+    #who_we_are h2{
+        font-size: 20px;
+    }
+    #event{
+        padding-top: 50px;
+    }
+    .facebook h2{
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    header #header_top .navigation{
+        padding-top: 15px;
+        padding-bottom: 40px;
+    }
+    header #header_top .navigation nav img{
+        top: -26px;
+        width: 90px;
+    }
+    header #header_top .navigation nav .navbar-nav .nav-item .nav-link{
+        text-align: center;
+        font-size: 13px;
+        line-height: 36px;
+    }
+    header .navbar-nav{
+        padding-top: 13px;
+        border-top: 1px solid rgba(52, 51, 51, 0.6);
+        margin-top: 40px;
+    }
+    #second_nav{padding-bottom: 45px;}
+    #second_nav a{
+        font-size: 16px;
+        line-height: 40px;
+    }
+    #latest_part{
+        padding-bottom: 35px;
+    }
+    .video h2{
+        padding-top: 30px;
+    }
+}
+
+
+
+
+
+
+
+
+@media(min-width:320px) and (max-width:575px){
+    
+}
